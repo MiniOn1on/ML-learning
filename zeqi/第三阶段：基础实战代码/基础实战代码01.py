@@ -1,6 +1,5 @@
-#  我们设定了一个真实的数据生成公式：
-# ，偏置 
-# （即真实的权重 
+#  我们设定了一个真实的数据生成公式：y=2x_1-3.4x_2+4.2
+# （即真实的权重 w=[2,-3.4],偏置b=4.2
 # ），并在其中加入了部分高斯噪声。 你需要编写代码来拟合这些数据，通
 # 过模型训练找出这组真实的 
 # 和 。  
@@ -34,17 +33,43 @@ dtype=torch.float)
 # 下方为函数模块提示（供参考，可自行调整结构）
 # 前向传播
 def predict(x, w, b):
+    return x @ torch.tensor(w).T + b
 # 损失函数
 def mse(pre_y, y):
+    return torch.mean((pre_y - y) ** 2)
 # 梯度计算
 def gradient(pre_y, x, y):
+    n = x.shape[0]  # 样本数量
+    y=y.reshape(-1,1)#（1000，1）
+    pre_y=pre_y.reshape(-1,1)
+    # 计算预测值与真实值的差值
+    diff = pre_y - y
+
+    # 计算梯度，x（1000，2）
+    grad_w = 2 * torch.sum(diff * x, dim=0, keepdim=True) / n
+    grad_b = 2 * torch.sum(diff, dim=0, keepdim=True) / n
+    return grad_w, grad_b
 # 梯度更新
 def gradient_update(learning_rate, x, y, pre_y, w, b):
+    grad_w, grad_b = gradient(pre_y, x, y)
+    w_new = torch.tensor(w) - learning_rate * grad_w
+    b_new = torch.tensor(b) - learning_rate * grad_b
+    return w_new, b_new
 # 训练函数
 def train(x, y, w, b, epoch, learning_rate):
+    losses = []
+    for epoch in range(epoch):
+        pre_y = predict(x, w, b)
+        loss = mse(pre_y, y)
+        w, b = gradient_update(learning_rate, x, y, pre_y, w, b)
+        if (epoch + 1) % 100 == 0:
+            print(f'Epoch [{epoch + 1}/{epoch}], Loss: {loss.item():.6f}')
+    return w, b
 if __name__ == "__main__":
-w = [0.0, 0.0] 
-b = 3.0
-ans_w, ans_b = train(features, labels, w, b, 100, 0.1)
-print(ans_w,ans_b)
+    w = [0.0, 0.0]
+    b = 3.0
+    ans_w, ans_b = train(features, labels, w, b, 100, 0.1)
+    print(ans_w,ans_b)
 # (可选) 绘图部分代码...
+
+

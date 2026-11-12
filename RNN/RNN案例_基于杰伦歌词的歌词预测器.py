@@ -153,5 +153,7 @@ def evaluate(start_word,sentence_length):
 
 # 6.测试
 if __name__=='__main__':
+    train()
+    
     input_word=input("请输入开始歌词：")
     evaluate(input_word,50)

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b8a4bc9-1609-4994-b070-78bf98e84385" name="更改" comment="delete .idea" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MiniOn1on&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MiniOn1on/ML-learning.git&quot;,
+    &quot;accountId&quot;: &quot;3e45f672-c0e9-4fca-ba58-016adbe39bba&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LOQKkcdneFo24jUD9h1VFcJ00v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.RNN案例_基于杰伦歌词的歌词预测器.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.predict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testdataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testmodel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.基础实战代码.executor&quot;: &quot;Run&quot;,
+    &quot;Python.基础实战代码01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.基础实战代码02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/29797/ML-learning/zeqi/第四阶段：工程实战代码/第三题-cracksegmentation&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\29797\ML-learning\zeqi\第四阶段：工程实战代码\第三题-cracksegmentation" />
+      <recent name="C:\Users\29797\ML-learning\zeqi\第四阶段：工程实战代码\第三题-cracksegmentation\weights" />
+      <recent name="C:\Users\29797\ML-learning\RNN" />
+      <recent name="C:\Users\29797\ML-learning\RNN\data" />
+      <recent name="C:\Users\29797\ML-learning\zeqi\第四阶段：工程实战代码\第二题\cv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\29797\ML-learning\zeqi\第四阶段：工程实战代码\第三题-cracksegmentation\Dataset" />
+      <recent name="C:\Users\29797\ML-learning\RNN" />
+      <recent name="C:\Users\29797\ML-learning\zeqi\第四阶段：工程实战代码\第一题" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.RNN案例_基于杰伦歌词的歌词预测器">
+    <configuration name="基础实战代码01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML-learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zeqi/第三阶段：基础实战代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\29797\ML-learning\zeqi\第三阶段：基础实战代码\基础实战代码01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RNN案例_基于杰伦歌词的歌词预测器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML-learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN/RNN案例_基于杰伦歌词的歌词预测器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RNN案例_基于杰伦歌词的歌词预测器" />
+        <item itemvalue="Python.基础实战代码01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.10968.92" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1b8a4bc9-1609-4994-b070-78bf98e84385" name="更改" comment="" />
+      <created>1793322577492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793322577492</updated>
+      <workItem from="1793322579473" duration="2549000" />
+      <workItem from="1793325291145" duration="2127000" />
+      <workItem from="1793347415805" duration="9272000" />
+      <workItem from="1794118835549" duration="55000" />
+      <workItem from="1794297643245" duration="6572000" />
+      <workItem from="1794459829409" duration="20812000" />
+      <workItem from="1794546585412" duration="860000" />
+      <workItem from="1794713377658" duration="7528000" />
+      <workItem from="1794737178623" duration="142000" />
+      <workItem from="1794737397482" duration="913000" />
+    </task>
+    <task id="LOCAL-00001" summary="zeqiml一到三阶段加四阶段数据集上传">
+      <option name="closed" value="true" />
+      <created>1793352016420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793352016420</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zeqiml一到三阶段加四阶段数据集上传">
+      <option name="closed" value="true" />
+      <created>1793352044036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793352044036</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zeqiml一到三阶段加四阶段数据集上传加四阶段第二题">
+      <option name="closed" value="true" />
+      <created>1794318636793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794318636793</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add .jpg to .gitattribures">
+      <option name="closed" value="true" />
+      <created>1794486024168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1794486024168</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add RNN">
+      <option name="closed" value="true" />
+      <created>1794486084894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1794486084894</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add RNN and zeqi 4th project code">
+      <option name="closed" value="true" />
+      <created>1794737474063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1794737474063</updated>
+    </task>
+    <task id="LOCAL-00007" summary="delete .idea">
+      <option name="closed" value="true" />
+      <created>1794738118440</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1794738118440</updated>
+    </task>
+    <task id="LOCAL-00008" summary="delete .idea">
+      <option name="closed" value="true" />
+      <created>1794738213552</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1794738213552</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zeqiml一到三阶段加四阶段数据集上传" />
+    <MESSAGE value="zeqiml一到三阶段加四阶段数据集上传加四阶段第二题" />
+    <MESSAGE value="add .jpg to .gitattribures" />
+    <MESSAGE value="add RNN" />
+    <MESSAGE value="add RNN and zeqi 4th project code" />
+    <MESSAGE value="delete .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete .idea" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ML_learning$predict.coverage" NAME="predict 覆盖结果" MODIFIED="1794729671132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第四阶段：工程实战代码/第三题-cracksegmentation" />
+    <SUITE FILE_PATH="coverage/ML_learning$.coverage" NAME="基础实战代码01 覆盖结果" MODIFIED="1793349062402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第三阶段：基础实战代码" />
+    <SUITE FILE_PATH="coverage/ML_learning$02.coverage" NAME="基础实战代码02 覆盖结果" MODIFIED="1793349474152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第三阶段：基础实战代码" />
+    <SUITE FILE_PATH="coverage/ML_learning$train.coverage" NAME="train 覆盖结果" MODIFIED="1794724208969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第四阶段：工程实战代码/第三题-cracksegmentation" />
+    <SUITE FILE_PATH="coverage/ML_learning$testmodel.coverage" NAME="testmodel 覆盖结果" MODIFIED="1794723581338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第四阶段：工程实战代码/第三题-cracksegmentation" />
+    <SUITE FILE_PATH="coverage/ML_learning$testdataset.coverage" NAME="testdataset 覆盖结果" MODIFIED="1794713621666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第四阶段：工程实战代码/第三题-cracksegmentation" />
+    <SUITE FILE_PATH="coverage/ML_learning$dataset.coverage" NAME="dataset 覆盖结果" MODIFIED="1794713646138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第四阶段：工程实战代码/第三题-cracksegmentation" />
+    <SUITE FILE_PATH="coverage/ML_learning$01.coverage" NAME="基础实战代码01 覆盖结果" MODIFIED="1793349506939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第三阶段：基础实战代码" />
+    <SUITE FILE_PATH="coverage/ML_learning$RNN_.coverage" NAME="RNN案例_基于杰伦歌词的歌词预测器 覆盖结果" MODIFIED="1794713456384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
+    <SUITE FILE_PATH="coverage/ML_learning$test.coverage" NAME="test 覆盖结果" MODIFIED="1794713470668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zeqi/第四阶段：工程实战代码/第三题-cracksegmentation" />
+  </component>
+</project>

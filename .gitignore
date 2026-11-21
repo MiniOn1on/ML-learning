@@ -1,3 +1,5 @@
 *.jpg
 *.png
 *.jpeg
+.idea/
+!zeqi/第四阶段：工程实战/论文/articlefig1.png
